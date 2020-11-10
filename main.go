@@ -1,7 +1,7 @@
 package main
 
 import (
-	"codeanalysis"
+	"github.com/UgOrange/go-package-plantuml/codeanalysis"
 	log "github.com/sirupsen/logrus"
 	"fmt"
 	"github.com/jessevdk/go-flags"
